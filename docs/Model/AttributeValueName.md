@@ -1,0 +1,13 @@
+# # AttributeValueName
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**value_id** | **int** | The unique ID of the attribute value. | [optional] 
+**lang** | **string** | The &lt;a href&#x3D;\&quot;https://developers.plentymarkets.com/rest-doc/introduction#countries\&quot; target&#x3D;\&quot;_blank\&quot;&gt;language&lt;/a&gt; of the attribute value. | [optional] 
+**name** | **string** | The name of the attribute value. This attribute value name is displayed in the online store. | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+

@@ -1,0 +1,19 @@
+{
+    "name": "mkreusch/plentymarkets-rest-swagger-client",
+    "description": "plentymarkets REST API PHP client generated with Swagger",
+    "license": "MIT",
+
+    "require": {
+        "php": ">=7.2",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": { "OpenAPI\\Client\\" : "lib/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "OpenAPI\\Client\\" : "test/" }
+    }
+}
